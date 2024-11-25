@@ -62,6 +62,6 @@
 
 ## References
 
-- [DB-Engines Ranking - popularity ranking of database management systems](https://db-engines.com/en/ranking)
+- [DB-Engines Ranking - DB-Engines](https://db-engines.com/en/ranking)
 - [TIOBE Index - TIOBE](https://www.tiobe.com/tiobe-index)
 - [Web Server Survey - Netcraft](https://www.netcraft.com/resources/?topic=web-server-survey)
