@@ -1,6 +1,6 @@
 # Skills
 
-## *Pandoc*
+## Pandoc
 
 - Machine: [Pandoc](https://pandoc.org)
 - Language: [Pandoc CommonMark Language](http://commonmark.org)
@@ -10,7 +10,7 @@
 - Compiler: None
 - Bundler: None
 
-## *FreeBSD*
+## FreeBSD
 
 - Machine: [FreeBSD](https://www.freebsd.org)
 - Language: [FreeBSD Shell Language](https://man.freebsd.org/cgi/man.cgi?query=sh)
@@ -50,7 +50,7 @@
 - Compiler: None
 - Bundler: None
 
-## *Chromium*
+## Chromium
 
 - Machine: [Chromium](https://www.chromium.org/Home)
 - Language: [Microsoft TypeScript Language](https://www.typescriptlang.org), [WHATWG HTML/CSS Language](https://spec.whatwg.org)
