@@ -59,3 +59,9 @@
 - Linter:  [TypeScript](https://www.typescriptlang.org), [Markuplint](https://markuplint.dev), [Stylelint](https://stylelint.io), [stylelint-config-recommended](https://github.com/stylelint/stylelint-config-recommended)
 - Compiler: [TypeScript](https://www.typescriptlang.org), None
 - Bundler: [Rollup](https://rollupjs.org), [@rollup/plugin-terser](https://github.com/rollup/plugins/tree/master/packages/terser), [terser](https://terser.org), [posthtml-cli](https://github.com/posthtml/posthtml-cli), [PostHTML](https://posthtml.org), [posthtml-include](https://github.com/posthtml/posthtml-include), [htmlnano](https://htmlnano.netlify.app), [PostCSS CLI](https://github.com/postcss/postcss-cli), [PostCSS](https://postcss.org), [postcss-import](https://github.com/postcss/postcss-import), [cssnano](https://cssnano.github.io/cssnano)
+
+## References
+
+- [DB-Engines Ranking - popularity ranking of database management systems](https://db-engines.com/en/ranking)
+- [TIOBE Index - TIOBE](https://www.tiobe.com/tiobe-index/)
+- [Usage Statistics and Market Share of Web Servers, November 2024](https://w3techs.com/technologies/overview/web_server)
