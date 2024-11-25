@@ -62,6 +62,4 @@
 
 ## References
 
-- [DB-Engines Ranking - popularity ranking of database management systems](https://db-engines.com/en/ranking)
-- [TIOBE Index - TIOBE](https://www.tiobe.com/tiobe-index/)
-- [Usage Statistics and Market Share of Web Servers, November 2024](https://w3techs.com/technologies/overview/web_server)
+- [Stack Overflow Insights - Developer Hiring, Marketing, and User Research](https://survey.stackoverflow.co)
