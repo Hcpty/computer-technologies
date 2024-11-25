@@ -53,9 +53,9 @@
 ## Chromium
 
 - Machine: [Chromium](https://www.chromium.org/Home)
-- Language: [Microsoft TypeScript Language](https://www.typescriptlang.org) [WHATWG HTML/CSS Language](https://spec.whatwg.org)
-- Style: [Google TypeScript style guide](https://google.github.io/styleguide/tsguide.html) [Google HTML/CSS style guide](https://google.github.io/styleguide/htmlcssguide.html)
-- Formatter: [prettier](https://prettier.io) [prettier](https://prettier.io)
-- Linter:  [typescript](https://www.typescriptlang.org) [markuplint](https://markuplint.dev) [stylelint](https://stylelint.io) [stylelint-config-recommended](https://github.com/stylelint/stylelint-config-recommended)
-- Compiler: [typescript](https://www.typescriptlang.org) None
-- Bundler: [rollup](https://rollupjs.org) [@rollup/plugin-terser](https://github.com/rollup/plugins/tree/master/packages/terser) [terser](https://terser.org) [posthtml-cli](https://github.com/posthtml/posthtml-cli) [posthtml](https://posthtml.org) [posthtml-include](https://github.com/posthtml/posthtml-include) [htmlnano](https://htmlnano.netlify.app) [postcss-cli](https://github.com/postcss/postcss-cli) [postcss](https://postcss.org) [postcss-import](https://github.com/postcss/postcss-import) [cssnano](https://cssnano.github.io/cssnano)
+- Language: [Microsoft TypeScript Language](https://www.typescriptlang.org), [WHATWG HTML/CSS Language](https://spec.whatwg.org)
+- Style: [Google TypeScript style guide](https://google.github.io/styleguide/tsguide.html), [Google HTML/CSS style guide](https://google.github.io/styleguide/htmlcssguide.html)
+- Formatter: [Prettier](https://prettier.io), [Prettier](https://prettier.io)
+- Linter:  [TypeScript](https://www.typescriptlang.org), [Markuplint](https://markuplint.dev), [Stylelint](https://stylelint.io), [stylelint-config-recommended](https://github.com/stylelint/stylelint-config-recommended)
+- Compiler: [TypeScript](https://www.typescriptlang.org), None
+- Bundler: [Rollup](https://rollupjs.org), [@rollup/plugin-terser](https://github.com/rollup/plugins/tree/master/packages/terser), [terser](https://terser.org), [posthtml-cli](https://github.com/posthtml/posthtml-cli), [PostHTML](https://posthtml.org), [posthtml-include](https://github.com/posthtml/posthtml-include), [htmlnano](https://htmlnano.netlify.app), [PostCSS CLI](https://github.com/postcss/postcss-cli), [PostCSS](https://postcss.org), [postcss-import](https://github.com/postcss/postcss-import), [cssnano](https://cssnano.github.io/cssnano)
