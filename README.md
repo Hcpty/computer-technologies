@@ -10,9 +10,9 @@
 - Compiler: None
 - Bundler: None
 
-## FreeBSD
+## sh
 
-- Machine: [FreeBSD](https://www.freebsd.org)
+- Machine: [sh](https://man.freebsd.org/cgi/man.cgi?query=sh)
 - Language: [FreeBSD sh Language](https://man.freebsd.org/cgi/man.cgi?query=sh)
 - Style: [Google shell style guide](https://google.github.io/styleguide/shellguide.html)
 - Formatter: [shfmt](https://github.com/mvdan/sh#shfmt)
