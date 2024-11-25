@@ -60,16 +60,6 @@
 - Compiler: [TypeScript](https://www.typescriptlang.org), None
 - Bundler: [Rollup](https://rollupjs.org), [@rollup/plugin-terser](https://github.com/rollup/plugins/tree/master/packages/terser), [terser](https://terser.org), [posthtml-cli](https://github.com/posthtml/posthtml-cli), [PostHTML](https://posthtml.org), [posthtml-include](https://github.com/posthtml/posthtml-include), [htmlnano](https://htmlnano.netlify.app), [PostCSS CLI](https://github.com/postcss/postcss-cli), [PostCSS](https://postcss.org), [postcss-import](https://github.com/postcss/postcss-import), [cssnano](https://cssnano.github.io/cssnano)
 
-## Android
-
-- Machine: [Android](https://www.android.com)
-- Language: [JetBrains Kotlin Language](https://kotlinlang.org)
-- Style: [Google Kotlin style guide](https://developer.android.com/kotlin/style-guide)
-- Formatter: [ktfmt](https://facebook.github.io/ktfmt)
-- Linter: kotlinc
-- Compiler: kotlinc
-- Bundler: [bundletool](https://github.com/google/bundletool)
-
 ## References
 
 - [DB-Engines Ranking - DB-Engines](https://db-engines.com/en/ranking)
