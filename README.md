@@ -1,6 +1,6 @@
 # Skills
 
-## Pandoc
+## *Pandoc*
 
 - Machine: [Pandoc](https://pandoc.org)
 - Language: [Pandoc CommonMark Language](http://commonmark.org)
@@ -10,7 +10,7 @@
 - Compiler: None
 - Bundler: None
 
-## FreeBSD
+## *FreeBSD*
 
 - Machine: [FreeBSD](https://www.freebsd.org)
 - Language: [FreeBSD Shell Language](https://man.freebsd.org/cgi/man.cgi?query=sh)
@@ -50,7 +50,7 @@
 - Compiler: None
 - Bundler: None
 
-## Chromium
+## *Chromium*
 
 - Machine: [Chromium](https://www.chromium.org/Home)
 - Language: [Microsoft TypeScript Language](https://www.typescriptlang.org), [WHATWG HTML/CSS Language](https://spec.whatwg.org)
@@ -59,3 +59,9 @@
 - Linter:  [TypeScript](https://www.typescriptlang.org), [Markuplint](https://markuplint.dev), [Stylelint](https://stylelint.io), [stylelint-config-recommended](https://github.com/stylelint/stylelint-config-recommended)
 - Compiler: [TypeScript](https://www.typescriptlang.org), None
 - Bundler: [Rollup](https://rollupjs.org), [@rollup/plugin-terser](https://github.com/rollup/plugins/tree/master/packages/terser), [terser](https://terser.org), [posthtml-cli](https://github.com/posthtml/posthtml-cli), [PostHTML](https://posthtml.org), [posthtml-include](https://github.com/posthtml/posthtml-include), [htmlnano](https://htmlnano.netlify.app), [PostCSS CLI](https://github.com/postcss/postcss-cli), [PostCSS](https://postcss.org), [postcss-import](https://github.com/postcss/postcss-import), [cssnano](https://cssnano.github.io/cssnano)
+
+## References
+
+- [DB-Engines Ranking - DB-Engines](https://db-engines.com/en/ranking)
+- [TIOBE Index - TIOBE](https://www.tiobe.com/tiobe-index)
+- [Web Server Survey - Netcraft](https://www.netcraft.com/resources/?topic=web-server-survey)
