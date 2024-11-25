@@ -63,12 +63,12 @@
 ## Android
 
 - Machine: [Android](https://www.android.com)
-- Language: [JetBrains Kotlin](https://kotlinlang.org)
+- Language: [JetBrains Kotlin Language](https://kotlinlang.org)
 - Style: [Google Kotlin style guide](https://developer.android.com/kotlin/style-guide)
 - Formatter: [ktfmt](https://facebook.github.io/ktfmt)
 - Linter: kotlinc
 - Compiler: kotlinc
-- Bundler: (bundletool](https://github.com/google/bundletool)
+- Bundler: [bundletool](https://github.com/google/bundletool)
 
 ## References
 
