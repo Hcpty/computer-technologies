@@ -12,7 +12,7 @@
 ## JVM
 
 - Driver: [JVM Java Language](https://docs.oracle.com/en/java/javase)
-- Style: [Google java style guide](https://google.github.io/styleguide/javaguide.html)
+- Style: [Google Java style guide](https://google.github.io/styleguide/javaguide.html)
 - Formatter: [google-java-format](https://github.com/google/google-java-format)
 - Linter: javac
 - Compiler: javac
@@ -21,9 +21,9 @@
 ## Nginx
 
 - Driver: [Nginx Configuration Language](https://nginx.org/en/docs)
-- Style: None
-- Formatter: None
-- Linter: None
+- Style: [DigitalOcean Nginx configuration generator](https://www.digitalocean.com/community/tools/nginx)
+- Formatter: [nginxfmt](https://github.com/slomkowski/nginx-config-formatter)
+- Linter: nginx
 - Compiler: None
 - Bundler: None
 
