@@ -1,5 +1,23 @@
 # Computer technology
 
+## Marked
+
+- Driver: [Marked Markdown Language](https://marked.js.org)
+- Style: [Google Markdown style guide](https://google.github.io/styleguide/docguide/style.html)
+- Formatter: [markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli)
+- Linter: None
+- Compiler: None
+- Bundler: None
+
+## FreeBSD
+
+- Driver: [FreeBSD sh Language](https://man.freebsd.org/cgi/man.cgi?query=sh)
+- Style: [Google shell style guide](https://google.github.io/styleguide/shellguide.html)
+- Formatter: [shfmt](https://github.com/mvdan/sh#shfmt)
+- Linter: [ShellCheck](https://www.shellcheck.net)
+- Compiler: None
+- Bundler: None
+
 ## MySQL
 
 - Driver: [MySQL SQL Language](https://dev.mysql.com/doc/refman/8.4/en/glossary.html#glos_sql)
