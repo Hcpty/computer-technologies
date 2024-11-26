@@ -1,14 +1,5 @@
 # Computer technology
 
-## Marked
-
-- Driver: [Marked Markdown Language](https://marked.js.org)
-- Style: [Google Markdown style guide](https://google.github.io/styleguide/docguide/style.html)
-- Formatter: [markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli)
-- Linter: None
-- Compiler: None
-- Bundler: None
-
 ## FreeBSD
 
 - Driver: [FreeBSD sh Language](https://man.freebsd.org/cgi/man.cgi?query=sh)
