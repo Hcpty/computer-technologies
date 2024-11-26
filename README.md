@@ -20,7 +20,7 @@
 
 ## Nginx
 
-- Driver: Nginx HTTP proxy configuration
+- Driver: [Nginx HTTP proxy configuration](https://nginx.org/en/docs/http/ngx_http_proxy_module.html)
 - Style: None
 - Formatter: None
 - Linter: None
