@@ -20,7 +20,7 @@
 
 ## Nginx
 
-- Driver: None
+- Driver: Nginx HTTP proxy configuration
 - Style: None
 - Formatter: None
 - Linter: None
