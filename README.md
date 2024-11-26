@@ -2,7 +2,7 @@
 
 ## MySQL
 
-- Driver language: [MySQL SQL Language](https://dev.mysql.com/doc/refman/8.4/en/glossary.html#glos_sql)
+- Driver: [MySQL SQL Language](https://dev.mysql.com/doc/refman/8.4/en/glossary.html#glos_sql)
 - Style: [SQL style guide by Simon Holywell](https://www.sqlstyle.guide)
 - Formatter: [SQLFluff](https://sqlfluff.com)
 - Linter: [SQLFluff](https://sqlfluff.com)
@@ -11,7 +11,7 @@
 
 ## JVM
 
-- Driver language: [JVM Java Language](https://docs.oracle.com/en/java/javase)
+- Driver: [JVM Java Language](https://docs.oracle.com/en/java/javase)
 - Style: [Google java style guide](https://google.github.io/styleguide/javaguide.html)
 - Formatter: [google-java-format](https://github.com/google/google-java-format)
 - Linter: javac
@@ -20,7 +20,7 @@
 
 ## Nginx
 
-- Driver language: None
+- Driver: None
 - Style: None
 - Formatter: None
 - Linter: None
@@ -29,7 +29,7 @@
 
 ## Chromium
 
-- Driver language: [Microsoft TypeScript Language](https://www.typescriptlang.org), [WHATWG HTML/CSS Language](https://spec.whatwg.org)
+- Driver: [Microsoft TypeScript Language](https://www.typescriptlang.org), [WHATWG HTML/CSS Language](https://spec.whatwg.org)
 - Style: [Google TypeScript style guide](https://google.github.io/styleguide/tsguide.html), [Google HTML/CSS style guide](https://google.github.io/styleguide/htmlcssguide.html)
 - Formatter: [Prettier](https://prettier.io), [Prettier](https://prettier.io)
 - Linter:  [TypeScript](https://www.typescriptlang.org), [Markuplint](https://markuplint.dev), [Stylelint](https://stylelint.io), [stylelint-config-recommended](https://github.com/stylelint/stylelint-config-recommended)
