@@ -21,7 +21,7 @@
 ## Nginx
 
 - Driver: [Nginx Configuration Language](https://nginx.org/en/docs)
-- Style: [DigitalOcean Nginx configuration generator](https://www.digitalocean.com/community/tools/nginx)
+- Style: [DigitalOcean Nginx Configuration generator](https://www.digitalocean.com/community/tools/nginx)
 - Formatter: [nginxfmt](https://github.com/slomkowski/nginx-config-formatter)
 - Linter: nginx
 - Compiler: None
