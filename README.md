@@ -14,16 +14,16 @@
 - Driver: [JVM Java Language](https://docs.oracle.com/en/java/javase)
 - Style: [Google Java style guide](https://google.github.io/styleguide/javaguide.html)
 - Formatter: [google-java-format](https://github.com/google/google-java-format)
-- Linter: javac
-- Compiler: javac
-- Bundler: jar
+- Linter: [javac](https://docs.oracle.com/en/java/javase/21/docs/specs/man/javac.html)
+- Compiler: [javac](https://docs.oracle.com/en/java/javase/21/docs/specs/man/javac.html)
+- Bundler: [jar](https://docs.oracle.com/en/java/javase/21/docs/specs/man/jar.html)
 
 ## Nginx
 
 - Driver: [Nginx Configuration Language](https://nginx.org/en/docs)
 - Style: [DigitalOcean Nginx Configuration generator](https://www.digitalocean.com/community/tools/nginx)
 - Formatter: [nginxfmt](https://github.com/slomkowski/nginx-config-formatter)
-- Linter: nginx
+- Linter: [nginx](https://nginx.org/en/docs/switches.html)
 - Compiler: None
 - Bundler: None
 
