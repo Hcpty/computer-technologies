@@ -1,25 +1,5 @@
 # Computer technology
 
-## Pandoc
-
-- Machine: [Pandoc](https://pandoc.org)
-- Language: [Pandoc CommonMark Language](http://commonmark.org)
-- Style: [Google Markdown style guide](https://google.github.io/styleguide/docguide/style.html)
-- Formatter: [markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli)
-- Linter: None
-- Compiler: None
-- Bundler: None
-
-## FreeBSD
-
-- Machine: [FreeBSD](https://www.freebsd.org)
-- Language: [FreeBSD sh Language](https://man.freebsd.org/cgi/man.cgi?query=sh)
-- Style: [Google shell style guide](https://google.github.io/styleguide/shellguide.html)
-- Formatter: [shfmt](https://github.com/mvdan/sh#shfmt)
-- Linter: [ShellCheck](https://www.shellcheck.net)
-- Compiler: None
-- Bundler: None
-
 ## MySQL
 
 - Machine: [MySQL](https://www.mysql.com)
