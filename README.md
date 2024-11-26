@@ -64,4 +64,4 @@
 
 - [DB-Engines Ranking - DB-Engines](https://db-engines.com/en/ranking)
 - [TIOBE Index - TIOBE](https://www.tiobe.com/tiobe-index)
-- [Netcraft Web Server Survey - Netcraft](https://www.netcraft.com/resources/?topic=web-server-survey)
+- [Netcraft Survey - Netcraft](https://www.netcraft.com/resources/?topic=web-server-survey)
