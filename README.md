@@ -1,4 +1,4 @@
-# Computer technologies
+# Computer technology
 
 ## Pandoc
 
