@@ -1,4 +1,4 @@
-# Computer technology
+# Computer technologies
 
 ## FreeBSD
 
