@@ -1,4 +1,4 @@
-# Computer technologies
+# Web technologies
 
 ## FreeBSD
 
