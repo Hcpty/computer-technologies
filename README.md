@@ -1,4 +1,4 @@
-# Web technology
+# 万维网技术
 
 ## FreeBSD
 
