@@ -4,8 +4,8 @@
 
 - Driver: [GitHub Markdown Language](https://github.github.com/gfm)
 - Style: [Google Markdown style guide](https://google.github.io/styleguide/docguide/style.html)
-- Formatter: [markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli)
-- Linter: [markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli)
+- Formatter: [markdownlint](https://github.com/DavidAnson/markdownlint)
+- Linter: [markdownlint](https://github.com/DavidAnson/markdownlint)
 - Compiler: None
 - Bundler: None
 
