@@ -12,7 +12,7 @@
 ## FreeBSD
 
 - Driver: [FreeBSD sh Language](https://man.freebsd.org/cgi/man.cgi?query=sh)
-- Style: [Google shell style guide](https://google.github.io/styleguide/shellguide.html)
+- Style: [Google Shell style guide](https://google.github.io/styleguide/shellguide.html)
 - Formatter: [shfmt](https://github.com/mvdan/sh#shfmt)
 - Linter: [ShellCheck](https://www.shellcheck.net)
 - Compiler: None
