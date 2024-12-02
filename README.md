@@ -38,9 +38,9 @@
 
 ## Chromium
 
-- Driver: [Microsoft TypeScript Language](https://www.typescriptlang.org), [WHATWG HTML/CSS Language](https://spec.whatwg.org)
-- Style: [Google TypeScript style guide](https://google.github.io/styleguide/tsguide.html), [Google HTML/CSS style guide](https://google.github.io/styleguide/htmlcssguide.html)
-- Formatter: [Prettier](https://prettier.io), [Prettier](https://prettier.io)
-- Linter:  [TypeScript](https://www.typescriptlang.org), [Markuplint](https://markuplint.dev), [Stylelint](https://stylelint.io), [stylelint-config-recommended](https://github.com/stylelint/stylelint-config-recommended)
+- Driver: [Microsoft TypeScript Language](https://www.typescriptlang.org), [WHATWG HTML/CSS Language](https://spec.whatwg.org), [JSON](https://www.json.org)
+- Style: [Google TypeScript style guide](https://google.github.io/styleguide/tsguide.html), [Google HTML/CSS style guide](https://google.github.io/styleguide/htmlcssguide.html), [Google JSON style guide](https://google.github.io/styleguide/jsoncstyleguide.xml)
+- Formatter: [Prettier](https://prettier.io), [Prettier](https://prettier.io), [Prettier](https://prettier.io)
+- Linter:  [TypeScript](https://www.typescriptlang.org), [Markuplint](https://markuplint.dev), [Stylelint](https://stylelint.io), [stylelint-config-recommended](https://github.com/stylelint/stylelint-config-recommended), [jsonlint](https://github.com/zaach/jsonlint)
 - Compiler: [TypeScript](https://www.typescriptlang.org), None
 - Bundler: [Rollup](https://rollupjs.org), [@rollup/plugin-terser](https://github.com/rollup/plugins/tree/master/packages/terser), [terser](https://terser.org), [posthtml-cli](https://github.com/posthtml/posthtml-cli), [PostHTML](https://posthtml.org), [posthtml-include](https://github.com/posthtml/posthtml-include), [htmlnano](https://htmlnano.netlify.app), [PostCSS CLI](https://github.com/postcss/postcss-cli), [PostCSS](https://postcss.org), [postcss-import](https://github.com/postcss/postcss-import), [cssnano](https://cssnano.github.io/cssnano)
