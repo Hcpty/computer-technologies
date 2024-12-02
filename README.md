@@ -1,4 +1,4 @@
-# Hcpty web technology
+# Hcpty Web Technology Notes
 
 ## GFM
 
