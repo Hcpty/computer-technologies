@@ -27,9 +27,9 @@
 - Compiler: None
 - Bundler: None
 
-## JVM
+## Java
 
-- Driver: [JVM Java Language](https://docs.oracle.com/en/java/javase)
+- Driver: [Oracle Java Language](https://docs.oracle.com/en/java/javase)
 - Style: [Google Java style guide](https://google.github.io/styleguide/javaguide.html)
 - Formatter: [google-java-format](https://github.com/google/google-java-format)
 - Linter: [javac](https://docs.oracle.com/en/java/javase/21/docs/specs/man/javac.html)
