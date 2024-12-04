@@ -1,14 +1,5 @@
 # Hcpty's Web Technology Notes
 
-## [GFM](https://github.github.com/gfm)
-
-- Driver: [GitHub Markdown Language](https://github.github.com/gfm)
-- Style: [Google Markdown style guide](https://google.github.io/styleguide/docguide/style.html)
-- Formatter: [markdownlint](https://dlaa.me/markdownlint)
-- Linter: [markdownlint](https://dlaa.me/markdownlint)
-- Compiler: None
-- Bundler: None
-
 ## [FreeBSD](https://www.freebsd.org)
 
 - Driver: [FreeBSD sh Language](https://man.freebsd.org/cgi/man.cgi?query=sh)
