@@ -1,6 +1,6 @@
 # Hcpty's Web Technology Notes
 
-## GFM
+## [GFM](https://github.github.com/gfm)
 
 - Driver: [GitHub Markdown Language](https://github.github.com/gfm)
 - Style: [Google Markdown style guide](https://google.github.io/styleguide/docguide/style.html)
@@ -9,7 +9,7 @@
 - Compiler: None
 - Bundler: None
 
-## FreeBSD
+## [FreeBSD](https://www.freebsd.org)
 
 - Driver: [FreeBSD sh Language](https://man.freebsd.org/cgi/man.cgi?query=sh)
 - Style: [Google Shell style guide](https://google.github.io/styleguide/shellguide.html)
@@ -18,7 +18,7 @@
 - Compiler: None
 - Bundler: None
 
-## MySQL
+## [MySQL](https://www.mysql.com)
 
 - Driver: [MySQL SQL Language](https://dev.mysql.com/doc/refman/8.4/en/glossary.html#glos_sql)
 - Style: [SQL style guide by Simon Holywell](https://www.sqlstyle.guide)
@@ -27,7 +27,7 @@
 - Compiler: None
 - Bundler: None
 
-## Java
+## [Java](https://www.oracle.com/java)
 
 - Driver: [Oracle Java Language](https://docs.oracle.com/en/java/javase)
 - Style: [Google Java style guide](https://google.github.io/styleguide/javaguide.html)
@@ -36,7 +36,7 @@
 - Compiler: [javac](https://docs.oracle.com/en/java/javase/21/docs/specs/man/javac.html)
 - Bundler: [jar](https://docs.oracle.com/en/java/javase/21/docs/specs/man/jar.html)
 
-## Nginx
+## [Nginx](https://www.f5.com/products/nginx)
 
 - Driver: [Nginx Configuration Language](https://nginx.org/en/docs)
 - Style: [DigitalOcean Nginx Configuration generator](https://www.digitalocean.com/community/tools/nginx)
@@ -45,7 +45,7 @@
 - Compiler: None
 - Bundler: None
 
-## Chromium
+## [Chromium](https://www.chromium.org/Home)
 
 - Driver: [WHATWG HTML/CSS Language](https://spec.whatwg.org), [Microsoft TypeScript Language](https://www.typescriptlang.org)
 - Style: [Google HTML/CSS style guide](https://google.github.io/styleguide/htmlcssguide.html), [Google TypeScript style guide](https://google.github.io/styleguide/tsguide.html)
