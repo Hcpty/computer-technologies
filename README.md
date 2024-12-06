@@ -1,4 +1,4 @@
-# Hcpty's Web Technology Notes
+# Web Technology Notes
 
 ## [FreeBSD](https://www.freebsd.org)
 
