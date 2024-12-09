@@ -1,4 +1,4 @@
-# Web Technology Notes
+# 万维网技术笔记
 
 ## [FreeBSD](https://www.freebsd.org)
 
