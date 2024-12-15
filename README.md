@@ -1,4 +1,4 @@
-# 万维网技术笔记
+# 万维网技术
 
 ## [FreeBSD](https://www.freebsd.org)
 
